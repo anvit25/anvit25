@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anvit25
-- 👀 I’m interested in Rust, Haskell and Python
-- 📖 I'm currently studying Statistics at Indian Statistical Institue, Kolkata. 
+- 👀 I’m interested in Python as well as Functional Programming
+- 📖 I'm currently studying Statistics (M. Stat) at Indian Statistical Institue, Kolkata. 
 - 📫 You can reach me at anvit25@gmail.com
 
 
